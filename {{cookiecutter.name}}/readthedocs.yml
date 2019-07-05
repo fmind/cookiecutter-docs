@@ -1,0 +1,10 @@
+version: 2
+formats: all
+
+sphinx:
+  fail_on_warning: true
+  configuration: {{cookiecutter.name}}/conf.py
+
+python:
+  install:
+    - requirements: {{cookiecutter.name}}/requirements.txt
