@@ -1,1 +1,1 @@
-# cookiecutter-docs
+# cookiecutter-sphinx
